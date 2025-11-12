@@ -1,1 +1,5 @@
 this is a demo file for lab 7!!!!!!!
+
+this is changes done for ex-3 case 2
+git reset HEAD~1
+-This command undoes your last commit but keeps your file changes (edits) in the working directory.
